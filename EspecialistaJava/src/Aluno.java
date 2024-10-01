@@ -1,4 +1,4 @@
-public class Cliente {
+public class Aluno {
 
     String nome;
     Integer idade;
