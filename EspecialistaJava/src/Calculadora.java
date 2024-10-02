@@ -1,6 +1,6 @@
 public class Calculadora {
 
-    static double calcularMedia(Integer[] notas){
+    static double calcularMedia(int[] notas){
 
         int total = 0;
 
